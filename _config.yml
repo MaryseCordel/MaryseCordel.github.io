@@ -1,0 +1,19 @@
+title:             SAS Programmer
+email:             maryse.cordel@gmail.com
+description:       Data manager et professionnelle du langage SAS
+author:            Maryse Cordel
+baseurl:           "/"
+url:               "http://www.maryse-cordel.fr"
+
+# Social Profiles
+twitter_username:
+github_username:   MaryseCordel
+facebook_username: MaryseCordel
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
